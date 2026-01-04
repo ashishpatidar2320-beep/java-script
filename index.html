@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task-manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="btnactive">
+        <nav class="nav-bar">
+            <h2 class="app-name">Manage-task</h2>
+            <button class="nav-add-task-btn">Add task</button>
+        </nav>
+        <section > 
+            <div class="tasks-can todo" id="todo">
+                <div class="heading">
+                    <h4>To Do</h4>
+                    <h4 class="count">count :1</h4>
+                </div>
+                  <!-- task -->
+            </div>
+
+            <div  class="tasks-can progress " id="progress">
+                <div class="heading">
+                    <h4>Progress</h4>
+                    <h4 class="count" >count :1</h4>
+                </div>
+                <!-- task -->
+            </div>
+
+            <div  class="tasks-can done" id="done">
+                <div class="heading">
+                    <h4>done</h4>
+                    <h4 class="count">count :1</h4>
+                </div>
+               <!-- task -->
+            </div>
+        </section>
+    </main>
+
+    <div class="modal">
+        <div class="bgcolor"></div>
+            <div class="centerform">
+                <input  class="tasktittle" type="text" placeholder="Task Tittle">
+                <textarea class="taskdis" name="" id="" placeholder="discribe task "></textarea>
+                <button class="taskadd">Add Task</button>
+            </div>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
