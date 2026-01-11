@@ -1,0 +1,53 @@
+# Image Editor App
+
+A simple image editing application built using JavaScript that allows users to apply basic filters and adjustments to images directly in the browser. This project focuses on DOM manipulation, CSS filters, and real-time image updates.
+
+## 🚀 Features
+- Upload image from local system
+- Apply filters like:
+  - Brightness
+  - Contrast
+  - Saturation
+  - Blur
+  - Grayscale
+- Real-time preview of changes
+- Reset filters to default values
+- Clean and interactive UI
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+- CSS Filters
+- DOM Manipulation
+
+## 📸 Screenshots
+(Add screenshots of the editor and filter controls here)
+
+## 🔧 Installation & Setup
+1. Clone the repository  
+git clone https://github.com/ashishpatidar2320-beep/image-editor
+
+2. Navigate to the project folder  
+
+3. Open `index.html` in your browser  
+(No additional setup required)
+
+## 📚 What I Learned
+- Handling file input in JavaScript
+- Applying CSS filters dynamically
+- Real-time UI updates
+- Working with range sliders
+- Improving user experience with instant feedback
+
+## 💡 Future Improvements
+- Download edited image
+- Crop and rotate features
+- Preset filters
+- Mobile-friendly UI
+- Canvas-based editing
+
+## 👨‍💻 Author
+Ashish Patidar  
+Frontend Developer  
+React | JavaScript | Tailwind CSS
