@@ -1,1 +1,1 @@
-this is basic a task manager app which manage task in three state first state is "todo" and second state is"progress" and last state is "done". And i use localstorage to keep task safe. hope you like that .thanks for reading this and view my task-manager app
+
