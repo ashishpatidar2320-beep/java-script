@@ -1,0 +1,46 @@
+# Task Manager App
+
+A simple and efficient Task Manager application built using JavaScript that allows users to add, view, and manage daily tasks. This project focuses on clean UI, DOM manipulation, and basic state management.
+
+## 🚀 Features
+- Add new tasks
+- Display tasks dynamically
+- Remove tasks on click
+- Clean and user-friendly interface
+- Responsive layout
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+- DOM Manipulation
+
+## 📸 Screenshots
+(Add screenshots of your app here)
+
+## 🔧 Installation & Setup
+1. Clone the repository  
+git clone https://github.com/ashishpatidar2320-beep/task-manager-app
+
+2. Navigate to the project folder
+
+3. Open `index.html` in your browser  
+(No additional setup required)
+
+## 📚 What I Learned
+- Working with JavaScript events
+- DOM manipulation techniques
+- Managing dynamic UI updates
+- Structuring small frontend projects
+- Improving user interaction handling
+
+## 💡 Future Improvements
+- Edit task functionality
+- LocalStorage integration
+- Task status (completed / pending)
+- Better UI animations
+
+## 👨‍💻 Author
+Ashish Patidar  
+Frontend Developer  
+React | JavaScript | Tailwind CSS
